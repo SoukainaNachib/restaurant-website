@@ -1,0 +1,98 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h2 {
+    color: #2f3542;
+    font-size: 2rem;
+    margin-bottom: 2%;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+a {
+    color: #ff6b81;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff4757;
+}
+
+/* css for navbar */
+a.nav-link {
+    color: #ff6b81 !important;
+}
+
+.img-logo {
+    width: 150px;
+}
+
+
+/* css for foods search  */
+
+.btn-search {
+    background-color: #ff6b81;
+}
+
+.foods-search {
+    background-image: url(./images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 7% 0;
+}
+#order-section {
+    background-image: url(./images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* padding: 35% 0; */
+}
+
+
+
+/* css for categories */
+.float-text {
+    position: absolute;
+    bottom: 50px;
+    left: 40%;
+    color: white;
+
+}
+/* css for foods section */
+.btn-orange {
+    background-color: #ff6b81;
+}
+
+.btn-padding {
+    padding: 5px 3px;
+    border-radius: 5px;
+}
+
+
+#foods-menu {
+    background-color: #ececec;
+    padding: 4% 0;
+}
+.menu1{
+    border-radius: 20px;
+}
+/* css for order.html */
+
+fieldset {
+    border: 2px solid white;
+    margin: 5%;
+    padding: 1%;
+    border-radius: 5px;
+}
+.order {
+    width: 60%;
+    margin: 0 auto;
+}
+.img-curve{
+    border-radius: 40px;
+}
